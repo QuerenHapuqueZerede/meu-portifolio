@@ -4,7 +4,7 @@ Este é um projeto de um portfólio web simples, desenvolvido em HTML e CSS, par
 
 ## Descrição
 
-O objetivo deste projeto é criar um portfólio web que destaque suas competências, projetos realizados e informações relevantes sobre sua carreira profissional. O projeto utiliza as seguintes tecnologias:
+O objetivo deste projeto é criar um portfólio web que destaque minhas competência e informações relevantes sobre minha carreira profissional. O projeto utiliza as seguintes tecnologias:
 
 - HTML5
 - CSS3
